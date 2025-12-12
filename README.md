@@ -82,14 +82,13 @@ Motor runs only if:
   ![circuit](https://github.com/user-attachments/assets/c097cd02-ace2-4a2e-8d93-ec7566ee4d02)
 
 - Motor ON state
-  ![start](https://github.com/user-attachments/assets/6f9f6a06-ddd2-45ea-ac58-1e3b0c947923)
+  ![start](https://github.com/user-attachments/assets/6cc4f6f9-d8d8-4ab8-a385-b53a0b7d2ad4)
 
 - Overload test
-  ![Overload](https://github.com/user-attachments/assets/54943dc7-d787-4eb9-b8e3-1cba00b47900)
+ ![Overload](https://github.com/user-attachments/assets/90702162-3b6c-4787-97fe-cbd8cabfc9fc)
 
 - LevelHigh block test
-  ![LevelHigh](https://github.com/user-attachments/assets/1779c40e-494d-40b2-a9ed-83bf6337f44b)
-
+  ![LevelHigh](https://github.com/user-attachments/assets/77f6b6d4-5e92-42b3-9082-2bdc19a054cc)
 
 ---
 
