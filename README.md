@@ -78,12 +78,18 @@ Motor runs only if:
 
 ## 📸 Screenshots
 
-- Rung 1 (Latch)
-- Rung 2 (Interlocks + Output)
+- circuit
+  ![circuit](https://github.com/user-attachments/assets/c097cd02-ace2-4a2e-8d93-ec7566ee4d02)
+
 - Motor ON state
-- Motor OFF (Stop test)
+  ![start](https://github.com/user-attachments/assets/6f9f6a06-ddd2-45ea-ac58-1e3b0c947923)
+
 - Overload test
+  ![Overload](https://github.com/user-attachments/assets/54943dc7-d787-4eb9-b8e3-1cba00b47900)
+
 - LevelHigh block test
+  ![LevelHigh](https://github.com/user-attachments/assets/1779c40e-494d-40b2-a9ed-83bf6337f44b)
+
 
 ---
 
