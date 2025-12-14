@@ -100,8 +100,6 @@ It includes latching logic, emergency shutdown paths, and safety interlocks — 
 
 ## 👨‍💻 Author
 **Lokesh Goud**  
-Electrical Engineering  
-(Add your email or LinkedIn if you want)
-
+Instrumentation Engineering  
 ---
 
